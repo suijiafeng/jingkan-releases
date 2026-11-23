@@ -1,8 +1,18 @@
 # 静看下载
 
-[下载最新版本](https://github.com/suijiafeng/jingkan-releases/releases/latest) · [全部版本](https://github.com/suijiafeng/jingkan-releases/releases)
+[Web 在线试用](https://suijiafeng.github.io/jingkan-releases/) · [下载最新版本](https://github.com/suijiafeng/jingkan-releases/releases/latest) · [全部版本](https://github.com/suijiafeng/jingkan-releases/releases)
 
-本仓库仅保存安装包、版本说明和校验信息；项目源码在独立的私有仓库维护。
+本仓库提供 Web 预览、安装包、版本说明和校验信息。项目源码在独立的私有仓库维护。
+
+## Web 在线试用
+
+1. 打开上方的「Web 在线试用」，点击「直接粘贴」。
+2. 点击「填入 M3U 格式示例」，然后点击「预览」和「确认导入」。
+3. 选择「Mux 公开测试台」试播。
+
+也可以导入自己的 M3U / TXT 文件或粘贴节目单内容。在线预览支持浏览器可直连的 HTTPS 流。远程链接导入、线路检测和播放代理由完整 Web 服务提供。
+
+## 下载安装包
 
 - Android 手机：选择 phone APK。
 - Android TV：选择 tv APK。
